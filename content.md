@@ -1,7 +1,7 @@
 ---
 _class: lead
 marp: true
-footer: "Introducció a les xarxes socials. Novembre 2021."
+footer: "Introducció a les xarxes socials. Novembre 2021"
 style: |
   section {
     background-color: #fff;
@@ -48,19 +48,32 @@ Sergi Xaudiera
 
 ---
 
-# 1.3. Consells i recomanacions de seguretat (1/2)
+# 1.3. Consells i recomanacions de seguretat (1/3)
 
 - Mantenir els sistemes operatius i programes actualitzats a la darrera versió.
 - Protegir els dispositius amb contrasenya i amb bloqueig automàtic.
 - Utilitzar les aplicacions oficials descarregades directament dels mercats d'aplicacions.
 - Utilitzar contrasenyes complexes, renovar-les de manera periòdica i utilitzar una contrasenya única per a cada servei. 
+- No obrir enllaços de remitents desconeguts.
 
 ---
-# 1.3. Consells i recomanacions de seguretat (2/2)
+# 1.3. Consells i recomanacions de seguretat (2/3)
 
 - Activar el segon factor d'autenticació sempre que sigui possible.
 - Evitar vincular els perfils de xarxes socials a altres aplicacions que no siguin les oficials per editar els continguts.
 - Prioritzar la connexió pròpia (4G) i evitar xarxes de tercers, especialment xarxes wifi desconegudes.
+- Utilitzar un gestor de contrassenyes
+
+---
+# 1.3. Consells i recomanacions de seguretat (3/3)
+
+Gestors de contrassenyes
+- https://keepassxc.org/ (gratuït)
+- https://1password.com/ (pagament)
+
+
+Per comprovar si el nostre correu-e o telèfon apareix entre alguns dels fitxers filtrats amb dades robades
+ https://haveibeenpwned.com/ 
 
 ---
 
@@ -152,10 +165,11 @@ Aplicació de Twitter per gestionar els perfils de manera professional.
 ---
 
 # 4.2. Vista en columnes
-![bg right](img/tweetdeck-list.png)
+![bg right alt="Llistes en Tweetdeck"](img/tweetdeck-list.png)
 - Lectura de llistes
 - Cerques
 - Cerques avançades
+- Extensió Better TweetDeck https://better.tw/
 
 ---
 
